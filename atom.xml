@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yszj123.github.io</id>
     <title>YSZJ_blog</title>
-    <updated>2020-04-14T14:35:47.425Z</updated>
+    <updated>2020-04-15T01:39:08.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yszj123.github.io"/>
     <link rel="self" href="https://yszj123.github.io/atom.xml"/>
@@ -10,22 +10,6 @@
     <logo>https://yszj123.github.io/images/avatar.png</logo>
     <icon>https://yszj123.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, YSZJ_blog</rights>
-    <entry>
-        <title type="html"><![CDATA[5天NCT备考笔记  DAY1]]></title>
-        <id>https://yszj123.github.io/post/5-tian-nct-bei-kao-bi-ji-day1/</id>
-        <link href="https://yszj123.github.io/post/5-tian-nct-bei-kao-bi-ji-day1/">
-        </link>
-        <updated>2020-04-14T14:07:11.000Z</updated>
-        <content type="html"><![CDATA[<p>2020.4.24 PM：22:10<br>
-video：https://www.bilibili.com/video/BV19t411m7uU</p>
-<p>#四舍五入<br>
-round(x,n)<br>
-x = 要四舍五入的数<br>
-n = 保留到的位数</p>
-<p>2020.4.14 PM: 10:35<br>
-就到这里</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yszj123.github.io/post/hello-gridea/</id>
